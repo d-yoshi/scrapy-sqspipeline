@@ -2,6 +2,8 @@
 
 [![PyPI version](https://badge.fury.io/py/scrapy-sqspipeline.svg)](https://badge.fury.io/py/scrapy-sqspipeline)
 
+Each time this pipeline receives an item, it sends it to SQS.
+
 ## Requirements
 
 * Python 3+
