@@ -29,4 +29,4 @@ pip3 install scrapy-sqspipeline
     # SQSPIPELINE_QUEUE_NAME=''
     ```
 
-1. Use AWS CLI's `aws configure` command to set up credentials. Alternatively, you can use Scrapy's settings `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY`.
+1. Use AWS CLI's `aws configure` command to set up credentials. Alternatively, you can use Scrapy's settings `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY` and `AWS_REGION_NAME`.
